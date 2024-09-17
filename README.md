@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&repeat=false&center=true&Center=true&multiline=true&width=700&height=70&lines=Welcome+to+My+GitHub+Page" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&repeat=false&center=true&Center=true&multiline=true&width=650&height=70&lines=Welcome+to+My+GitHub+Page" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=2000&center=true&vCenter=true&multiline=true&width=1000&height=35&lines=Programming+is+the+best+hobby+in+life." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=6000&pause=2000&center=true&vCenter=true&multiline=true&width=500&height=35&lines=Programming+is+the+best+hobby+in+life." alt="Typing SVG" />
   </a>
 </div>
 <!--
