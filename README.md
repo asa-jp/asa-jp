@@ -13,6 +13,12 @@
 "Programming is the best hobby in life."
 プログラミングは人生で最高の趣味です。
 -->
+<!--
+あなたは何故、これを読んでいるのですか？
+英語が読めませんでしたか？
+
+これは私の決意です、後悔しないための。
+-->
 
 ## 使用したことがあるもの
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,php,mysql)](https://skillicons.dev)
